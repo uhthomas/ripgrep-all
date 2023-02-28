@@ -17,7 +17,7 @@ exclude = [
 
 [dependencies]
 tree_magic = { package = "tree_magic_mini", version = "3.0.0" }
-regex = "1.3.9"
+regex = "1.5.5"
 rkv = "0.17.0"
 path-clean = "0.1.0"
 bincode = "1.3.1"
